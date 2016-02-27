@@ -1,1 +1,3 @@
-# todo_rails
+
+Todo app, backend
+
